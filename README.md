@@ -1,4 +1,4 @@
-This is the README file for the PabloBrites repository.
+
 
 <!--
 **PabloBrites/PabloBrites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
