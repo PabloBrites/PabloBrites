@@ -71,10 +71,9 @@ Apart from coding, I enjoy <img src="https://img.icons8.com/color/16/000000/open
 ### Check out my social media  
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pablialmendra)
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pablo-brites/" target="_blank">
+<a href="https://www.linkedin.com/in/pablo-brites/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+</a>
 
 <!-- Line separator -->
 <hr style="border: none; border-top: 1px solid #bbb; margin: 20px 0;">
