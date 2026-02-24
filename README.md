@@ -79,6 +79,8 @@ Apart from coding, I enjoy <img src="https://img.icons8.com/color/16/000000/open
 <img src="https://img.shields.io/badge/WebForms-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 
+<hr style="border: none; border-top: 1px solid #bbb; margin: 20px 0;">
+
 <!-- Check out my social media section -->
 ### Check out my social media  
 
