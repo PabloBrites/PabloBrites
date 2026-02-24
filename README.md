@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300" style="margin-left: 15px;">  
 
-💻 Backend Developer specialized in C# and .NET ecosystem.
-I have strong experience working with SQL databases, building desktop applications with WinForms, and designing systems using object-oriented programming principles and layered architecture.
+💻 Backend Developer specialized in C# and the .NET ecosystem.
+I have strong experience working with ASP.NET WebForms, SQL databases, building desktop applications with WinForms, and designing systems using object-oriented programming principles and layered architecture.
 
-I’m passionate about software development, clean code practices, and continuously improving my technical skills to build scalable and maintainable applications.  
+I’m passionate about software development, clean code practices, and continuously improving my technical skills to build scalable and maintainable applications. 
 
 Apart from coding, I enjoy <img src="https://img.icons8.com/color/16/000000/open-book.png" alt="Book Icon" style="vertical-align: middle;"> reading books and <img src="https://img.icons8.com/color/16/000000/guitar.png" alt="Guitar Icon" style="vertical-align: middle;"> playing the guitar.  
 📧 **pabloalejandrobrites@gmail.com**
