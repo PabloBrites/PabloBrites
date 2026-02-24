@@ -71,6 +71,12 @@ Apart from coding, I enjoy <img src="https://img.icons8.com/color/16/000000/open
 <!-- Line separator -->
 <hr style="border: none; border-top: 1px solid #bbb; margin: 20px 0;">
 
+### Backend / Framework
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/WebForms-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+
 <!-- Check out my social media section -->
 ### Check out my social media  
 
