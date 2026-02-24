@@ -65,6 +65,7 @@ Apart from coding, I enjoy <img src="https://img.icons8.com/color/16/000000/open
   <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/SQL-%2300A4DB.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 0 10px;">
 </div>
 
 <!-- Line separator -->
